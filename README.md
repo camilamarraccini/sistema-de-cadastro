@@ -1,8 +1,8 @@
-<h1> Sistema de Cadastro </h1>
+<h1> Sistema de Controle de Pacientes </h1>
 
 > Status do projeto: Em desenvolvimento.
-Para rodar esse projeto, instale:
+
 
 ``` 
-pip install robot
+
 ```
